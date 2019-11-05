@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Llistadefeines>
+    <Tasca>
+    <Data>2019-12-29</Data>
+    <Descripció>
+    Llista de compra per nadal
+    </Descripció>
+    <Responsable>Joan</Responsable>
+    <Urgència>Mitja</Urgència>
+    <Fet>Si</Fet>
+    </Tasca>
+    <Tasca>
+    <Data>2020-01-01</Data>
+    <Descripció>
+    Recollir restes sopar
+    </Descripció>
+    <Responsable>Joan</Responsable>
+    <Urgència>Alta</Urgència>
+    <Fet>No</Fet>
+    </Tasca>
+    <Tasca>
+    <Data>2020-01-05</Data>
+    <Descripció>
+    Embolicar regals
+    </Descripció>
+    <Responsable>Maria</Responsable>
+    <Urgència>Mitja</Urgència>
+    <Fet>No</Fet>
+    </Tasca>
+    <Tasca>
+    <Data>2020-01-06</Data>
+    <Descripció>
+    Dinar de reis
+    </Descripció>
+    <Responsable>Tots</Responsable>
+    <Urgència>Alta</Urgència>
+    <Fet>No</Fet>
+    </Tasca>
+    <Tasca>
+    <Data>2020-01-07</Data>
+    <Descripció>
+    Preparar tornada
+    </Descripció>
+    <Responsable>Joan</Responsable>
+    <Urgència>Baixa</Urgència>
+    <Fet>No</Fet>  
+    </Tasca>
+</Llistadefeines>

@@ -1,0 +1,10 @@
+1. Completa el noms (1.5p)
+    1.-XML prolog.
+    2.-Etiqueta.
+    3.-Atributo.
+    4.-Texto.
+    5.-Cierre de Etiqueta.
+1.1 Quants elements hi ha a la definició d’aquest xml?
+    Hi ha 5 elements ja que element es tot lo que vagi entre(<>/</>).
+1.2 Quants atributs hem definit?
+    Hi ha 3 atributs ja que atribut es tot allo que vagi entre(" ") cometes.
